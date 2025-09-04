@@ -11,7 +11,9 @@ sections:
         Chen
         Research Group (AI4GEO)
       image:
-        wfd3ds.gif
+        filename: wfd3ds.gif
+        filters:
+        brightness: 0.7
       text: |
         <br>
         
