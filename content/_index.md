@@ -10,8 +10,6 @@ sections:
       title: |
         Chen
         Research Group (AI4GEO)
-      image:
-        filename: welcome.jpg
       text: |
         <br>
         
