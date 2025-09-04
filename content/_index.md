@@ -15,6 +15,7 @@ sections:
         
         The **AI4GEO** is a research initiative for solving challenging geoscience problems using AI-backed data analysis, including but not limited to earthquake monitoring, seismic interpretation, enhanced seismic imaging, physics-driven geological modeling, multi-source data fusion, digital rock physics, and reservoir characterization. AI4GEO's ultimate goal is to develop cutting-edge techniques and unprecedented solutions for revolutionizing next-generation geoscientific research and problem-solving via big data analysis and AI. 
   
+<!-- 
   - block: collection
     content:
       title: Research Focus
@@ -32,6 +33,7 @@ sections:
     design:
       view: card
       columns: '1'
+ -->
       
 <!-- 
       subtitle:
