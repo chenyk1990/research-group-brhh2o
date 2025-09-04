@@ -32,6 +32,7 @@ sections:
     design:
       view: card
       columns: '1'
+      
 <!-- 
       subtitle:
       text:
