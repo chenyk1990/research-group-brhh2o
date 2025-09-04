@@ -18,8 +18,7 @@ sections:
   - block: collection
     content:
       title: Research Focus
-      image:
-        image: 
+      image: 
           filename: AI4GEO.png
           filters:
             brightness: 1
@@ -27,6 +26,12 @@ sections:
           position: center
           size: cover
           text_color_light: true
+      offset: 0
+      order: desc
+      page_type: post
+    design:
+      view: card
+      columns: '1'
 <!-- 
       subtitle:
       text:
