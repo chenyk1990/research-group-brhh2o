@@ -10,6 +10,8 @@ sections:
       title: |
         Chen
         Research Group (AI4GEO)
+      image:
+        wfd3ds.gif
       text: |
         <br>
         
@@ -19,7 +21,7 @@ sections:
     content:
       title: Research Focus
       image: 
-          filename: AI4GEO.png
+          filename: AI4GEO.jpg
           filters:
             brightness: 1
           parallax: false
