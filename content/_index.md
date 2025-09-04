@@ -8,14 +8,14 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Chen
+        Research Group (AI4GEO)
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The **AI4GEO** is a research initiative for solving challenging geoscience problems using AI-backed data analysis, including but not limited to earthquake monitoring, seismic interpretation, enhanced seismic imaging, physics-driven geological modeling, multi-source data fusion, digital rock physics, and reservoir characterization. AI4GEO's ultimate goal is to develop cutting-edge techniques and unprecedented solutions for revolutionizing next-generation geoscientific research and problem-solving via big data analysis and AI. 
   
   - block: collection
     content:
