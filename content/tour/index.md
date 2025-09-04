@@ -9,7 +9,7 @@ sections:
     content:
       slides:
       - title: 👋 We are dedicated to studying earthquakes
-        content: to mitigate human and economic loss \n Take a look at what we're working on... 
+        content: to mitigate human and economic loss. Take a look at what we're working on... 
         align: center
         background:
           image:
@@ -28,8 +28,8 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
+      - title: World-Class Seismic Imaging Lab
+        content: 'is waiting for you to join!'
         align: right
         background:
           image:
