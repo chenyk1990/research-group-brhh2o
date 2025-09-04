@@ -35,7 +35,6 @@ sections:
       columns: '1'
  -->
       
-<!-- 
       subtitle:
       text:
       count: 5
@@ -51,9 +50,7 @@ sections:
     design:
       view: card
       columns: '1'
- -->
       
-<!-- 
   - block: collection
     content:
       title: Latest News
@@ -72,7 +69,6 @@ sections:
     design:
       view: card
       columns: '1'
- -->
   
   - block: markdown
     content:
@@ -115,4 +111,4 @@ sections:
         {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
     design:
       columns: '1'
----
+
